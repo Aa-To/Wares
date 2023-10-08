@@ -290,3 +290,4 @@
 | [Plasma Mobile](https://plasma-mobile.org) | KDE Plasma based GUI for Smartphones. |
 | [Posh](https://phosh.mobi)  | GNOME based GUI for Smartphones. |
 | [Sxmo](https://sxmo.org)  | Simple Gui for smartphones. |
+
