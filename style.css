@@ -20,15 +20,16 @@ a{
 	text-decoration: none;
 }
 th, tr, td{
-	background-color: #000000cc;
+	background-color: #000000f0;
 }
 p a:hover, table a:hover, ul a:hover{
-	color: #ff4343;
+	color: #5fbe10;
 	transition: .5s;
 	transform: scale(1.5);
 	background: none;
 	text-decoration: none;
 }
+
 /* Enable smooth scrolling */
 @media screen and (prefers-reduced-motion: no-preference) {
 	html {
@@ -53,4 +54,4 @@ p a:hover, table a:hover, ul a:hover{
 	width:            1em;
 	height:           1em;
 	background-color: #F8F8F8;
-  }  
+  }
