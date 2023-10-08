@@ -1,4 +1,3 @@
- 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +7,7 @@
 	<a class="top-link hide" href="#top">↑</a>
 </head>
 	
-# System Software (OS)
+# Ş¥ŞŦ€Μ ŞØ₣ŦŴΔŘ€ ØŞ
 
 ## Table of Content
 
