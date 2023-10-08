@@ -20,11 +20,10 @@ a{
 	text-decoration: none;
 }
 th, tr, td{
-	background-color: #000;
-	border-color: #000;
+	background-color: #000000cc;
 }
-p a:hover, table a:hover{
-	color: #f00000;
+p a:hover, table a:hover, ul a:hover{
+	color: #ff4343;
 	transition: .5s;
 	transform: scale(1.5);
 	background: none;
