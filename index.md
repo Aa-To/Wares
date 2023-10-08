@@ -13,6 +13,8 @@
 
 * [Desktop (Independent)](#desktop-independent)
 
+* [Desktop Environment](#desktop-environment)
+
 * [Debian](#debian)
 	* [Desktop](#desktop)
 	* [Server](#server)
@@ -41,6 +43,7 @@
 	* [Hacking](#hacking-3)
 	* [Repair & Rescue](#repair--rescue-2)
 
+
 * [Mobile](#mobile)
 	* [Android](#android)
 	* [Other](#other-1)
@@ -64,6 +67,24 @@
 | [Solus](https://getsol.us) ||
 | [KaOS](https://kaosx.us) | Built from scratch with KDE and Qt |
 
+## Desktop Environment
+
+| Name  | Description |
+| :---: | --- |
+| [Gnome](https://www.gnome.org) | |
+| [KDE Plasma](https://kde.org) | |
+| [Budgie](https://buddiesofbudgie.org) | |
+| [Deepin DE](https://www.deepin.org/en/dde) | |
+| [Ubuntu Unity](https://ubuntuunity.org) | |
+| [Cinnamon](https://projects.linuxmint.com/cinnamon) | |
+| Pantheon | |
+| [XFCE](https://www.xfce.org) | |
+| [MATE](https://mate-desktop.org) | |
+| [LXQT](https://lxqt-project.org) | Based on LXDE-Qt & Razor-qt |
+| [LXDE](https://www.lxde.org) |
+| [Razor-qt](https://en.wikipedia.org/wiki/Razor-qt) | Discontinued |
+| [Enlightenment](https://www.enlightenment.org) | |
+
 ## Debian
 
 ### Desktop
@@ -80,7 +101,7 @@
 | :---: | --- |
 | [AntiX Linux](https://antixlinux.com) | |
 | [BunsenLabs Linux](https://www.bunsenlabs.org) | |
-| [Deepin Linux](https://www.deepin.org/index/en) | |
+| [Deepin Linux](https://www.deepin.org) | |
 | [MX Linux](https://mxlinux.org) | |
 | [Nitrux](https://nxos.org) | |
 
@@ -190,7 +211,7 @@
 
 | Name  | Description |
 | :---: | --- |
-| [DEFT Linux ](https://archiveos.org/deft) | It is discontinued. |
+| [DEFT Linux ](https://archiveos.org/deft) | Discontinued |
 | [Samurai Web Testing Framework](https://samurai.sourceforge.io) | |
 
 ## Other
@@ -234,6 +255,9 @@
 | :---: | --- |
 | [Medicat](https://medicatusb.com) | Also contains Jayro’s Lockpick |
 | [Hiren’s BootCD PE](https://www.hirensbootcd.org/) | Based on Windows 10 |
+
+
+
 
 ## Mobile
 
