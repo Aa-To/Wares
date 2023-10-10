@@ -36,13 +36,15 @@
 	* [Security](#security-1)
 	* [Hacking](#hacking-2)
 
-* [Other](#other)
+* [Slackware](#slackware)
 	* [Desktop](#desktop-4)
+
+* [Other](#other)
+	* [Desktop](#desktop-5)
 	* [Server](#server-2)
 	* [Security](#security-2)
 	* [Hacking](#hacking-3)
 	* [Repair & Rescue](#repair--rescue-2)
-
 
 * [Mobile](#mobile)
 	* [Android](#android)
@@ -91,19 +93,20 @@
 
 | Unique Name | Description |
 | :---: | --- |
-| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
-| [Debian Dog](https://debiandog.github.io/doglinux) | Lightwight |
 | [Ubuntu](https://ubuntu.com/download) | |
+| [Debian Dog](https://debiandog.github.io/doglinux) | Lightwight |
 | [Pappermint OS](https://peppermintos.com) | Lightweight |
+| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
 
 
 | Name | Description |
 | :---: | --- |
-| [AntiX Linux](https://antixlinux.com) | |
-| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
 | [Deepin Linux](https://www.deepin.org) | |
-| [MX Linux](https://mxlinux.org) | |
 | [Nitrux](https://nxos.org) | |
+| [MX Linux](https://mxlinux.org) | |
+| [AntiX Linux](https://antixlinux.com) | Lightweight and systemd-free |
+| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
+| [Q4OS](https://q4os.org) | |
 
 ### Server
 
@@ -196,10 +199,11 @@
 | :---: | --- |
 | [Elementary OS](https://elementary.io) | |
 | [Feren OS](https://ferenos.weebly.com) | |
-| [LXLE](https://www.lxle.net) | |
 | [Linux Mint](https://www.linuxmint.com) | |
-| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Lightweight |
 | [Zorin OS](https://zorin.com) | |
+| [LXLE](https://www.lxle.net) | |
+| [Linux Lite](https://www.linuxliteos.com) | |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Lightweight |
 
 ### Security
 
@@ -213,6 +217,15 @@
 | :---: | --- |
 | [DEFT Linux ](https://archiveos.org/deft) | Discontinued |
 | [Samurai Web Testing Framework](https://samurai.sourceforge.io) | |
+
+## Slackware
+
+### Desktop
+
+| Name  | Description |
+| :---: | --- |
+| [Absolute Linux](https://www.absolutelinux.org) | |
+| [Porteus Linux](http://www.porteus.org) | |
 
 ## Other
 
@@ -256,9 +269,6 @@
 | [Medicat](https://medicatusb.com) | Also contains Jayro’s Lockpick |
 | [Hiren’s BootCD PE](https://www.hirensbootcd.org/) | Based on Windows 10 |
 
-
-
-
 ## Mobile
 
 ### Android
@@ -290,4 +300,3 @@
 | [Plasma Mobile](https://plasma-mobile.org) | KDE Plasma based GUI for Smartphones. |
 | [Posh](https://phosh.mobi)  | GNOME based GUI for Smartphones. |
 | [Sxmo](https://sxmo.org)  | Simple Gui for smartphones. |
-
