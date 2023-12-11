@@ -290,8 +290,6 @@
 | [PureOS](https://pureos.net) | |
 | [Ubuntu Touch](https://ubports.com) | |
 | [PostmarketOS](https://www.postmarketos.org) | Based on Alpine linux. |
-| [KaiOS](https://www.kaiostech.com) | |
-| [Sailfish OS](https://sailfishos.org) | |
 
 ### GUI
 
