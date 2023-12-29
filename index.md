@@ -98,7 +98,7 @@
 | [FydeOS](https://fydeos.io) | Based on Chromium OS. |
 
 
-## Desktop Environment (DE)
+### Desktop Environment (DE)
 
 | Name  | Description |
 | :---: | --- |
