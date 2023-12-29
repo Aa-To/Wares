@@ -11,47 +11,15 @@
 
 ## Table of Content
 
-* [Desktop (Independent)](#desktop-independent)
+* [OS for Desktop](#desktop)
+	* [Independent GNU/Linux](#independent-gnulinux)
+	* [Desktop Environment (DE)](#desktop-environment-de)
+* [OS for Mobile](#mobile)
 
-* [Desktop Environment](#desktop-environment)
 
-* [Debian](#debian)
-	* [Desktop](#desktop)
-	* [Server](#server)
-	* [Security](#security)
-	* [Hacking](#hacking)
-	* [Repair & Rescue](#repair--rescue)
+## Desktop
 
-* [Arch](#arch)
-	* [Desktop](#desktop-1)
-	* [Hacking](#hacking-1)
-	* [Repair & Rescue](#repair--rescue-1)
-
-* [Red Hat](#red-hat)
-	* [Desktop](#desktop-2)
-	* [Server](#server-1)
-
-* [Ubuntu](#ubuntu)
-	* [Desktop](#desktop-3)
-	* [Security](#security-1)
-	* [Hacking](#hacking-2)
-
-* [Slackware](#slackware)
-	* [Desktop](#desktop-4)
-
-* [Other](#other)
-	* [Desktop](#desktop-5)
-	* [Server](#server-2)
-	* [Security](#security-2)
-	* [Hacking](#hacking-3)
-	* [Repair & Rescue](#repair--rescue-2)
-
-* [Mobile](#mobile)
-	* [Android](#android)
-	* [Other](#other-1)
-	* [GUI](#gui)
-
-### Desktop (Independent)
+### Independent GNU/Linux
 
 | Name | Description |
 | :---: | --- |
@@ -59,7 +27,7 @@
 | [Debian](https://www.debian.org) | Oldest, Popular, have so much variety |
 | [Linux From Scratch](https://www.linuxfromscratch.org) | For advance user |
 | [Arch Linux](https://archlinux.org) | For power users |
-| [Gentoo](https://www.gentoo.org) ||
+| [Gentoo Linux](https://www.gentoo.org) ||
 | [NixOS](https://nixos.org) ||
 | [Void](https://voidlinux.org) | Different from regular Linux distros |
 | [Tiny Linux](http://www.tinycorelinux.net) | Not for beginner |
@@ -69,7 +37,68 @@
 | [Solus](https://getsol.us) ||
 | [KaOS](https://kaosx.us) | Built from scratch with KDE and Qt |
 
-## Desktop Environment
+### Debian
+
+| Name | Description |
+| :---: | --- |
+| [Ubuntu](https://ubuntu.com/download) | |
+| [Debian Dog](https://debiandog.github.io/doglinux) | Lightwight |
+| [Pappermint OS](https://peppermintos.com) | Lightweight |
+| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
+
+| More Name | Description |
+| :---: | --- |
+| [Deepin Linux](https://www.deepin.org) | |
+| [Nitrux](https://nxos.org) | |
+| [MX Linux](https://mxlinux.org) | |
+| [AntiX Linux](https://antixlinux.com) | Lightweight and systemd-free |
+| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
+| [Q4OS](https://q4os.org) | |
+
+### Arch
+
+| Name  | Description |
+| :---: | --- |
+| [Archcraft](https://archcraft.io) | |
+| [Archlabs Linux](https://archlabslinux.com) | |
+| [Artix Linux](https://artixlinux.org) | |
+| [Axyl Linux](https://axyl-os.github.io) | |
+| [BlendOS](https://blendos.co) | |
+| [EndeavourOS](https://endeavouros.com) | |
+| [Garuda Linux](https://garudalinux.org) | |
+| [Manjaro](https://manjaro.org) | |
+
+### Ubuntu
+
+| Name  | Description |
+| :---: | --- |
+| [Elementary OS](https://elementary.io) | |
+| [Feren OS](https://ferenos.weebly.com) | |
+| [Linux Mint](https://www.linuxmint.com) | |
+| [Zorin OS](https://zorin.com) | |
+| [LXLE](https://www.lxle.net) | |
+| [Linux Lite](https://www.linuxliteos.com) | |
+
+### Slackware
+
+| Name  | Description |
+| :---: | --- |
+| [Absolute Linux](https://www.absolutelinux.org) | |
+| [Porteus Linux](http://www.porteus.org) | |
+
+### Lightweight
+| Name  | Description |
+| :---: | --- |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Based on Ubuntu & Slackware, Lightweight |
+
+### Other
+| Name  | Description |
+| :---: | --- |
+| [Fedora](https://getfedora.org) | Based on Red Hat Linux |
+| [FydeOS](https://fydeos.io) | Based on Chromium OS. |
+
+
+## Desktop Environment (DE)
 
 | Name  | Description |
 | :---: | --- |
@@ -86,188 +115,6 @@
 | [LXDE](https://www.lxde.org) |
 | [Razor-qt](https://en.wikipedia.org/wiki/Razor-qt) | Discontinued |
 | [Enlightenment](https://www.enlightenment.org) | |
-
-## Debian
-
-### Desktop
-
-| Unique Name | Description |
-| :---: | --- |
-| [Ubuntu](https://ubuntu.com/download) | |
-| [Debian Dog](https://debiandog.github.io/doglinux) | Lightwight |
-| [Pappermint OS](https://peppermintos.com) | Lightweight |
-| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
-
-
-| Name | Description |
-| :---: | --- |
-| [Deepin Linux](https://www.deepin.org) | |
-| [Nitrux](https://nxos.org) | |
-| [MX Linux](https://mxlinux.org) | |
-| [AntiX Linux](https://antixlinux.com) | Lightweight and systemd-free |
-| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
-| [Q4OS](https://q4os.org) | |
-
-### Server
-
-| Name | Description |
-| :---: | --- |
-| [OpenMediaVault](https://www.openmediavault.org) | NAS system |
-| [YunoHost](https://yunohost.org) | |
-
-### Security
-
-| Name | Description |
-| :---: | --- |
-| [Tails](https://tails.boum.org) | |
-| [Kicksecure](https://www.kicksecure.com) | |
-
-### Hacking
-
-| Name | Description |
-| :---: | --- |
-| [Kali Linux](https://www.kali.org) | |
-| [Parrot Security](https://www.parrotsec.org) | |
-
-### Repair & Rescue
-
-| Name | Description |
-| :---: | --- |
-| [Finnix](https://www.finnix.org) | |
-| [Rescatux](https://www.supergrubdisk.org/rescatux) | |
-| [Clonezilla](https://clonezilla.org) | |
-
-## Arch
-
-### Desktop
-
-| Name  | Description |
-| :---: | --- |
-| [Archcraft](https://archcraft.io) | |
-| [Archlabs Linux](https://archlabslinux.com) | |
-| [Artix Linux](https://artixlinux.org) | |
-| [Axyl Linux](https://axyl-os.github.io) | |
-| [BlendOS](https://blendos.co) | |
-| [EndeavourOS](https://endeavouros.com) | |
-| [Garuda Linux](https://garudalinux.org) | |
-| [Manjaro](https://manjaro.org) | |
-
-### Hacking
-
-| Name  | Description |
-| :---: | --- |
-| [Black Arch Linux](https://www.blackarch.org) | |
-
-### Repair & Rescue
-
-| Name  | Description |
-| :---: | --- |
-| [SystemRescue](https://www.system-rescue.org) | |
-
-## Red Hat
-
-### Desktop
-
-| Name  | Description |
-| :---: | --- |
-| [Fedora](https://getfedora.org) | |
-
-| Name  | Description |
-| :---: | --- |
-| [Archcraft](https://archcraft.io) | |
-| [Archlabs Linux](https://archlabslinux.com) | |
-| [Artix Linux](https://artixlinux.org) | |
-| [Axyl Linux](https://axyl-os.github.io) | |
-| [BlendOS](https://blendos.co) | |
-| [EndeavourOS](https://endeavouros.com) | |
-| [Garuda Linux](https://garudalinux.org) | |
-| [Manjaro](https://manjaro.org) | |
-
-### Server
-
-| Name  | Description |
-| :---: | --- |
-| [NethServer](https://www.nethserver.org) | |
-| [Rocky Linux](https://rockylinux.org) | |
-| [Alma Linux](https://almalinux.org) | |
-
-## Ubuntu
-
-### Desktop
-
-| Name  | Description |
-| :---: | --- |
-| [Elementary OS](https://elementary.io) | |
-| [Feren OS](https://ferenos.weebly.com) | |
-| [Linux Mint](https://www.linuxmint.com) | |
-| [Zorin OS](https://zorin.com) | |
-| [LXLE](https://www.lxle.net) | |
-| [Linux Lite](https://www.linuxliteos.com) | |
-| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Lightweight |
-
-### Security
-
-| Name  | Description |
-| :---: | --- |
-| [Kodachi](https://www.digi77.com) | |
-
-### Hacking
-
-| Name  | Description |
-| :---: | --- |
-| [DEFT Linux ](https://archiveos.org/deft) | Discontinued |
-| [Samurai Web Testing Framework](https://samurai.sourceforge.io) | |
-
-## Slackware
-
-### Desktop
-
-| Name  | Description |
-| :---: | --- |
-| [Absolute Linux](https://www.absolutelinux.org) | |
-| [Porteus Linux](http://www.porteus.org) | |
-
-## Other
-
-### Desktop
-
-| Name  | Description |
-| :---: | --- |
-| [FydeOS](https://fydeos.io) | Based on Chromium OS. |
-| [Debian](https://www.debian.org) | |
-| [Gentoo Linux](https://www.gentoo.org) | |
-| [Mageia](https://www.mageia.org) | |
-| [NixOS](https://nixos.org) | |
-| [Slackware](http://www.slackware.com) | |
-| [Solus](https://getsol.us) | |
-
-### Server
-
-| Name  | Description |
-| :---: | --- |
-| [Alpine](https://www.alpinelinux.org) | Lightweight & Security-oriented |
-| [CasaOS](https://casaos.io) | Based on the Docker ecosystem & designed for home purpose |
-
-### Security
-
-| Name  | Description |
-| :---: | --- |
-| [Whonix](https://www.whonix.org) | Whonix is based on Kicksecure |
-
-### Hacking
-
-| Name  | Description |
-| :---: | --- |
-| [Network Security Toolkit](https://www.networksecuritytoolkit.org) | |
-| [Pentoo](https://www.pentoo.ch) | |
-| [Jayro’s Lockpick](https://gbatemp.net/threads/release-jayros-lockpick-a-bootable-password-removal-suite-winpe.579278) | Based on WinPE. |
-
-### Repair & Rescue
-
-| Name  | Description |
-| :---: | --- |
-| [Medicat](https://medicatusb.com) | Also contains Jayro’s Lockpick |
-| [Hiren’s BootCD PE](https://www.hirensbootcd.org/) | Based on Windows 10 |
 
 ## Mobile
 
@@ -291,7 +138,7 @@
 | [Ubuntu Touch](https://ubports.com) | |
 | [PostmarketOS](https://www.postmarketos.org) | Based on Alpine linux. |
 
-### GUI
+### DE For Mobile OS
 
 | Name  | Description |
 | :---: | --- |
