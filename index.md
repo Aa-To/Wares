@@ -13,7 +13,9 @@
 
 * [Independent GNU/Linux](#independent-gnulinux)
 * [Desktop Environment (DE)](#desktop-environment-de)
-	* [OS for Desktop](#desktop)
+	* [OS for Desktop](#desktop-os)
+	* [Midweight Desktop OS](#midweight-desktop-os)
+	* [Lightweight Desktop OS](#lightweight-desktop-os)
 	* [OS for Security & Privacy](#security--privacy)
 	* [OS for Server](#server)
 	* [OS for Repair & Rescue](#repair--rescue)
@@ -32,13 +34,12 @@
 | [Gentoo Linux](https://www.gentoo.org) ||
 | [NixOS](https://nixos.org) ||
 | [Void](https://voidlinux.org) | Different from regular Linux distros |
-| [Tiny Linux](http://www.tinycorelinux.net) | Not for beginner |
+| [Tiny Core Linux](http://www.tinycorelinux.net) | Extremely lightweight with bare minimum<br>desktop (based on BusyBox and FLTK).<br>Not for beginner |
 | [4MLinux](https://4mlinux.com) | Maintenance (System rescue Live CD)<br>Miniserver<br>Multimedia (Large Support of media formats)<br>Mystery (Classic Linux games) |
 | [Mageia](https://www.mageia.org/en) ||
 | [Clear Linux](https://www.clearlinux.org) | Advanced and best for Intel CPU |
 | [Solus](https://getsol.us) ||
 | [KaOS](https://kaosx.us) | Built from scratch with KDE and Qt |
-
 
 
 ### Desktop Environment (DE)
@@ -60,70 +61,94 @@
 | [Enlightenment](https://www.enlightenment.org) | |
 
 
-
-### Desktop
+### Desktop OS
 
 #### Debian
 
 | Name | Description |
 | :---: | --- |
 | [Ubuntu](https://ubuntu.com/download) | |
-| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
-
-| More | Description |
-| :---: | --- |
-| [Deepin Linux](https://www.deepin.org) | |
-| [Nitrux](https://nxos.org) | |
 | [MX Linux](https://mxlinux.org) | |
-| [AntiX Linux](https://antixlinux.com) | Lightweight and systemd-free |
-| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
-| [Q4OS](https://q4os.org) | |
+| [Deepin Linux](https://www.deepin.org/index/en) | |
+| [Nitrux](https://nxos.org) | AppImages oriented |
 
 #### Arch
 
 | Name  | Description |
 | :---: | --- |
-| [Archcraft](https://archcraft.io) | |
-| [Archlabs Linux](https://archlabslinux.com) | |
-| [Artix Linux](https://artixlinux.org) | |
-| [Axyl Linux](https://axyl-os.github.io) | |
-| [BlendOS](https://blendos.co) | |
-| [EndeavourOS](https://endeavouros.com) | |
-| [Garuda Linux](https://garudalinux.org) | |
 | [Manjaro](https://manjaro.org) | |
+| [Garuda Linux](https://garudalinux.org) | |
+| [EndeavourOS](https://endeavouros.com) | |
+| [BlendOS](https://blendos.co) | |
 
 #### Ubuntu
 
 | Name  | Description |
 | :---: | --- |
 | [Elementary OS](https://elementary.io) | |
-| [Feren OS](https://ferenos.weebly.com) | |
 | [Linux Mint](https://www.linuxmint.com) | |
 | [Zorin OS](https://zorin.com) | |
-| [LXLE](https://www.lxle.net) | |
-| [Linux Lite](https://www.linuxliteos.com) | |
-
-#### Slackware
-
-| Name  | Description |
-| :---: | --- |
-| [Absolute Linux](https://www.absolutelinux.org) | |
-| [Porteus Linux](http://www.porteus.org) | |
-
-#### Lightweight
-
-| Name  | Description |
-| :---: | --- |
-| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Based on Ubuntu & Slackware, Lightweight |
-| [Debian Dog](https://debiandog.github.io/doglinux) | Lightwight |
 
 #### Other
 
 | Name  | Description |
 | :---: | --- |
 | [Fedora](https://getfedora.org) | Based on Red Hat Linux |
-| [FydeOS](https://fydeos.io) | Based on Chromium OS. |
+| [FydeOS](https://fydeos.io) | Based on Chromium OS |
 
+
+### Midweight Desktop OS
+
+#### Debian
+
+| Name  | Description |
+| :---: | --- |
+| [CrunchBang++](https://crunchbangplusplus.org) | |
+| [BunsenLabs Linux](https://www.bunsenlabs.org) | |
+
+#### Arch
+
+| Name  | Description |
+| :---: | --- |
+| [Archcraft](https://archcraft.io) | Tiling Windows focused |
+
+#### Ubuntu
+
+| Name  | Description |
+| :---: | --- |
+| [Linux Lite](https://www.linuxliteos.com) | |
+
+
+### Lightweight Desktop OS
+
+#### Debian
+
+| Name  | Description |
+| :---: | --- |
+| [RaspberryPi OS](https://www.raspberrypi.com/software) | |
+| [Bodhi](https://www.bodhilinux.com) | It uses Moksha DE |
+| [AntiX Linux](https://antixlinux.com) | systemd-free |
+| [Q4OS](https://q4os.org) | Use Trinity DE for lightweight |
+
+#### Arch
+
+| Name  | Description |
+| :---: | --- |
+| [Artix Linux](https://artixlinux.org) | |
+| [Axyl Linux](https://axyl-os.github.io) | Tiling Windows focused |
+
+#### Ubuntu
+
+| Name  | Description |
+| :---: | --- |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io) | Based on Ubuntu & Slackware |
+| [LXLE Linux](https://lxle.net) | |
+
+#### Slackware
+
+| Name  | Description |
+| :---: | --- |
+| [Absolute Linux](https://www.absolutelinux.org) | |
 
 
 ### Security & Privacy
@@ -140,7 +165,6 @@
 | Name  | Description |
 | :---: | --- |
 | [Kodachi](https://www.digi77.com) | |
-
 
 
 ### Server
@@ -189,8 +213,6 @@
 | :---: | --- |
 | [Network Security Toolkit](https://www.networksecuritytoolkit.org) | |
 | [Pentoo](https://www.pentoo.ch) | Based on Gentoo |
-| [Jayro’s Lockpick](https://gbatemp.net/threads/release-jayros-lockpick-a-bootable-password-removal-suite-winpe.579278) | Based on WinPE |
-
 
 
 ### Repair & Rescue
@@ -213,8 +235,10 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Medicat](https://medicatusb.com) | Also contains Jayro’s Lockpick |
-| [Sergei Strelec](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english) | Also contains Password Unlocker|
+| [AnkhTech](https://ankhtech.weebly.com) | |
+| [Hiren’s BootCD](https://www.hirensbootcd.org)| |
+| [Sergei Strelec](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english) | |
+| [Medicat](https://medicatusb.com) | |
 
 
 
@@ -224,11 +248,11 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Bliss OS](https://blissroms.org) | Available for Mobile & PC. |
-| [CalyxOS](https://calyxos.org) | Alternate for google's android. |
-| [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating,<br>based on Linage OS. |
+| [Bliss OS](https://blissroms.org) | Also available for PC |
+| [CalyxOS](https://calyxos.org) | Alternate for google's android |
+| [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating,<br>based on Linage OS |
 | [GrapheneOS](https://grapheneos.org) | Privacy and security focused OS.<br>Some important features are :<br>1. Gapp sandboxing<br>2. Stricter SELinux policies<br>3. Hardened memory allocator |
-| [LineageOS](https://lineageos.org) | Based on CyanogenMod. OS with enhanced customization, privacy, security, etc. |
+| [LineageOS](https://lineageos.org) | Based on CyanogenMod. OS with enhanced customization, privacy, security, etc |
 | [Replicant](https://replicant.us) | |
 
 #### Other
@@ -238,12 +262,12 @@
 | [Mobian](https://mobian-project.org) | |
 | [PureOS](https://pureos.net) | |
 | [Ubuntu Touch](https://ubports.com) | |
-| [PostmarketOS](https://www.postmarketos.org) | Based on Alpine linux. |
+| [PostmarketOS](https://www.postmarketos.org) | Based on Alpine linux |
 
 #### DE For Mobile OS
 
 | Name  | Description |
 | :---: | --- |
-| [Plasma Mobile](https://plasma-mobile.org) | KDE Plasma based GUI for Smartphones. |
-| [Posh](https://phosh.mobi)  | GNOME based GUI for Smartphones. |
-| [Sxmo](https://sxmo.org)  | Simple Gui for smartphones. |
+| [Plasma Mobile](https://plasma-mobile.org) | KDE Plasma based GUI for Smartphones |
+| [Posh](https://phosh.mobi)  | GNOME based GUI for Smartphones |
+| [Sxmo](https://sxmo.org)  | Simple Gui for smartphones |
