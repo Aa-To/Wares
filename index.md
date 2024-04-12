@@ -248,7 +248,7 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Bliss OS](https://blissroms.org) | Also available for PC |
+| [Bliss OS](https://blissroms.org) | Also available for [Computer](https://blissos.org) |
 | [CalyxOS](https://calyxos.org) | Alternate for google's android |
 | [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating,<br>based on Linage OS |
 | [GrapheneOS](https://grapheneos.org) | Privacy and security focused OS.<br>Some important features are :<br>1. Gapp sandboxing<br>2. Stricter SELinux policies<br>3. Hardened memory allocator |
