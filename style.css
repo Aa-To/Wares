@@ -15,13 +15,19 @@ body{
 h1{
   text-align: center;
 }
+
 a{
 	color: #fff;
 	text-decoration: none;
 }
-th, tr, td{
+
+table{
 	background-color: #000000f0;
+	/* table-layout: fixed;
+	width: 90%;
+	column-width: 150px; */
 }
+
 p a:hover, table a:hover, ul a:hover{
 	color: #5fbe10;
 	transition: .5s;

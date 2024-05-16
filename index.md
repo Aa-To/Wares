@@ -28,13 +28,13 @@
 | Name | Description |
 | :---: | --- |
 | [Slackware](http://www.slackware.com) | Oldest, Simple and Stable |
-| [Debian](https://www.debian.org) | Oldest, Popular, have so much variety |
-| [Linux From Scratch](https://www.linuxfromscratch.org) | For advance user |
+| [Debian](https://www.debian.org) | Oldest, Popular & Full of variety |
+| [Linux From Scratch](https://www.linuxfromscratch.org) | For advance users |
 | [Arch Linux](https://archlinux.org) | For power users |
-| [Gentoo Linux](https://www.gentoo.org) ||
+| [Gentoo Linux](https://www.gentoo.org) | Highly flexible but for advance user, compiles everthing<br>from source code |
 | [NixOS](https://nixos.org) ||
 | [Void](https://voidlinux.org) | Different from regular Linux distros |
-| [Tiny Core Linux](http://www.tinycorelinux.net) | Extremely lightweight with bare minimum<br>desktop (based on BusyBox and FLTK).<br>Not for beginner |
+| [Tiny Core Linux](http://www.tinycorelinux.net) | Extremely lightweight with bare minimum desktop<br>(based on BusyBox and FLTK). Not for beginner |
 | [4MLinux](https://4mlinux.com) | Maintenance (System rescue Live CD)<br>Miniserver<br>Multimedia (Large Support of media formats)<br>Mystery (Classic Linux games) |
 | [Mageia](https://www.mageia.org/en) ||
 | [Clear Linux](https://www.clearlinux.org) | Advanced and best for Intel CPU |
@@ -89,12 +89,15 @@
 | [Linux Mint](https://www.linuxmint.com) | |
 | [Zorin OS](https://zorin.com) | |
 
+#### Chromium OS
+| [FydeOS](https://fydeos.io) | A better alternate which can also run Android & Linux apps |
+| [Wayne OS](https://wayne-os.com) | Customizable OS for thin client PC |
+
 #### Other
 
 | Name  | Description |
 | :---: | --- |
 | [Fedora](https://getfedora.org) | Based on Red Hat Linux |
-| [FydeOS](https://fydeos.io) | Based on Chromium OS |
 
 
 ### Midweight Desktop OS
@@ -110,7 +113,7 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Archcraft](https://archcraft.io) | Tiling Windows focused |
+| [Archcraft](https://archcraft.io) | Windows Manager focused |
 
 #### Ubuntu
 
@@ -134,8 +137,8 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Artix Linux](https://artixlinux.org) | |
-| [Axyl Linux](https://axyl-os.github.io) | Tiling Windows focused |
+| [Artix Linux](https://artixlinux.org) | Simple, Fast & Systemd-free |
+| [Axyl Linux](https://axyl-os.github.io) | Windows Manager focused |
 
 #### Ubuntu
 
@@ -248,12 +251,12 @@
 
 | Name  | Description |
 | :---: | --- |
-| [Bliss OS](https://blissroms.org) | Also available for [Computer](https://blissos.org) |
+| [LineageOS](https://lineageos.org) | Based on CyanogenMod, with enhanced customization, privacy,<br>security, etc |
 | [CalyxOS](https://calyxos.org) | Alternate for google's android |
-| [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating,<br>based on Linage OS |
-| [GrapheneOS](https://grapheneos.org) | Privacy and security focused OS.<br>Some important features are :<br>1. Gapp sandboxing<br>2. Stricter SELinux policies<br>3. Hardened memory allocator |
-| [LineageOS](https://lineageos.org) | Based on CyanogenMod. OS with enhanced customization, privacy, security, etc |
+| [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating, based on Linage OS |
+| [GrapheneOS](https://grapheneos.org) | Privacy & security focused OS<br> Some important features are :<br>1. Gapp sandboxing<br>2. Stricter SELinux policies<br>3. Hardened memory allocator |
 | [Replicant](https://replicant.us) | |
+| [Bliss OS](https://blissroms.org) | Also available for [Computer](https://blissos.org) |
 
 #### Other
 
