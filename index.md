@@ -93,7 +93,7 @@
 | Name  | Description |
 | :---: | --- |
 | [FydeOS](https://fydeos.io) | A better alternate which can also run Android & Linux apps |
-| [Wayne OS](https://wayne-os.com) | Customizable OS for thin client PC |
+| [Wayne OS](https://wayne-os.com) | Customized for thin client PC |
 
 #### Other
 
