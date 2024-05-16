@@ -31,7 +31,7 @@
 | [Debian](https://www.debian.org) | Oldest, Popular & Full of variety |
 | [Linux From Scratch](https://www.linuxfromscratch.org) | For advance users |
 | [Arch Linux](https://archlinux.org) | For power users |
-| [Gentoo Linux](https://www.gentoo.org) | Highly flexible but for advance user, compiles everthing<br>from source code |
+| [Gentoo Linux](https://www.gentoo.org) | Highly flexible but for advance user, compiles<br>everthing from source code |
 | [NixOS](https://nixos.org) ||
 | [Void](https://voidlinux.org) | Different from regular Linux distros |
 | [Tiny Core Linux](http://www.tinycorelinux.net) | Extremely lightweight with bare minimum desktop<br>(based on BusyBox and FLTK). Not for beginner |
@@ -90,6 +90,8 @@
 | [Zorin OS](https://zorin.com) | |
 
 #### Chromium OS
+| Name  | Description |
+| :---: | --- |
 | [FydeOS](https://fydeos.io) | A better alternate which can also run Android & Linux apps |
 | [Wayne OS](https://wayne-os.com) | Customizable OS for thin client PC |
 
@@ -251,7 +253,7 @@
 
 | Name  | Description |
 | :---: | --- |
-| [LineageOS](https://lineageos.org) | Based on CyanogenMod, with enhanced customization, privacy,<br>security, etc |
+| [LineageOS](https://lineageos.org) | Based on CyanogenMod, with enhanced customization,<br>privacy, security, etc |
 | [CalyxOS](https://calyxos.org) | Alternate for google's android |
 | [/e/ OR eelo OS](https://e.foundation) | Privacy-focused mobile operating, based on Linage OS |
 | [GrapheneOS](https://grapheneos.org) | Privacy & security focused OS<br> Some important features are :<br>1. Gapp sandboxing<br>2. Stricter SELinux policies<br>3. Hardened memory allocator |
